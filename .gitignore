@@ -10,7 +10,9 @@ __pycache__/
 .Python
 build/
 .ipynb_checkpoints/
-Resources/
+__pycache__/
+
+config.py
 develop-eggs/
 dist/
 downloads/
